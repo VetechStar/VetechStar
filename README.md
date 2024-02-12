@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Web Static: 
+https://vetechstar.github.io/Vec-Static-Web/
+
 <!--
 **VetechStar/VetechStar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
